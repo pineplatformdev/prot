@@ -13,7 +13,7 @@ PROT PROJECT
 
 ### Coin Reward Table
 <table>
-<th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes & Stakers</th><th>Governance RESERVE</th>
+<th>Phase</th><th>Block Height</th><th>Reward</th><th>MasterNode,POS REWARD</th><th>Governance RESERVE</th>
 <tr><td>Phase 1</td><td>100-43299</td><td>5 POT</td><td>4.5 POT</td><td>0.5 POT</td></tr>
 <tr><td>Phase 2</td><td>43300-86499</td><td>10 POT</td><td>9 POT</td><td>1 POT</td></tr>
 <tr><td>Phase 3</td><td>86500-129699</td><td>15 POT</td><td>13.5 POT</td><td>1.5 POT</td></tr>
